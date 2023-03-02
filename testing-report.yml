@@ -45,7 +45,7 @@
   
 - summary: |
     Уведомление о начале баттла
-  status: pass
+  status: fail
   
 - summary: |
     Возможность просмотра баттла зрителям в режиме online
